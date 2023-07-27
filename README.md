@@ -15,4 +15,5 @@ Demo Website: [https://bankist-cem-savas-portfolio-project.netlify.app/](https:/
 
 # How it Looks?
 
-![Project GIF](https://github-production-user-asset-6210df.s3.amazonaws.com/122227345/256518736-81b31612-eb90-4b3b-8c59-d66953693a11.gif)
+![project1](https://github.com/savascem/minimalist-online-banking-app/assets/122227345/28f39cde-258c-49fc-8907-6310e0c2b5c1)
+
